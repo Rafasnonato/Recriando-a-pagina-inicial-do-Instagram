@@ -48,7 +48,7 @@ body{
 }
 
 .instagram-phone img{
-    width: 400px;
+    width: 420px;
     height: 581px;
 }
 
@@ -77,7 +77,7 @@ body{
 
 }
 
-.intagram-logo{
+.instragam-logo{
     height: 3rem;
 }
 
@@ -106,14 +106,20 @@ body{
 
 }
 
+.group:nth-child(2){
+   gap: 5px;
+
+}
+
 .not-account{
     color: rgb(255, 255, 255);
 }
 
+
 .link-blue{
     color: #0095f6;
     background-color: rgb(29, 29, 29);
-
+    gap: 50px;
 }
 
 .get-the-app{
